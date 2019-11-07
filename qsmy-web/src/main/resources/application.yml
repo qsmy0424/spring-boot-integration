@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:13306/qsmy?useSSL=false
+    username: root
+    password: qsmy0424
+    driver-class-name: com.mysql.cj.jdbc.Driver
